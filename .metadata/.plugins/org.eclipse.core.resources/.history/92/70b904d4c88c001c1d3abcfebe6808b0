@@ -1,0 +1,7 @@
+package com.user.input.validation.dto;
+
+public class Data {
+	
+	private String data;
+
+}

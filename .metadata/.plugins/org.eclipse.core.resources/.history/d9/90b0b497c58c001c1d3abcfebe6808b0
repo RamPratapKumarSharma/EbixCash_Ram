@@ -1,0 +1,14 @@
+package com.user.input.validation.dao;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+
+public class UserDatabase {
+	Connection connection = null;
+	PreparedStatement statement = null;
+	String quer = "insert into userinput values (?)";
+	
+	public static void main(String[] args) {
+
+	}
+}

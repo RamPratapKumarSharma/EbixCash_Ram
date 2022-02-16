@@ -1,0 +1,71 @@
+
+Feb 10, 2022 16:20:40.759 NEW SESSION
+Feb 10, 2022 16:20:40.760 [23540:22636:0210/162040.750:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 10, 2022 16:20:40.761 [23540:22636:0210/162040.750:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 10, 2022 16:20:40.762 [23540:22636:0210/162040.750:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 10, 2022 16:20:40.763 [23540:22636:0210/162040.757:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 10, 2022 16:20:40.776 [23540:16348:0210/162040.774:ERROR:device_event_log_impl.cc(214)] [16:20:40.775] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 10, 2022 16:20:40.777 [23540:16348:0210/162040.776:ERROR:device_event_log_impl.cc(214)] [16:20:40.775] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 10, 2022 17:09:43.214 [23540:16348:0210/170943.213:ERROR:device_event_log_impl.cc(214)] [17:09:43.211] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 10, 2022 17:09:43.227 [23540:16348:0210/170943.226:ERROR:device_event_log_impl.cc(214)] [17:09:43.226] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 10, 2022 17:35:31.931 [23540:26028:0210/173531.930:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 10, 2022 18:10:08.522 [23540:16348:0210/181008.522:ERROR:device_event_log_impl.cc(214)] [18:10:08.521] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 10, 2022 18:10:08.536 [23540:16348:0210/181008.536:ERROR:device_event_log_impl.cc(214)] [18:10:08.534] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 10, 2022 18:15:24.276 [23540:26028:0210/181524.275:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 10, 2022 18:21:51.927 [23540:26028:0210/182151.926:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+
+Feb 11, 2022 09:11:02.358 NEW SESSION
+Feb 11, 2022 09:11:02.358 [25504:17592:0211/091102.354:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 11, 2022 09:11:02.360 [25504:17592:0211/091102.354:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 11, 2022 09:11:02.360 [25504:17592:0211/091102.354:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 11, 2022 09:11:02.361 [25504:17592:0211/091102.359:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 11, 2022 09:56:49.171 [25504:7660:0211/095648.978:ERROR:device_event_log_impl.cc(214)] [09:56:48.977] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 11, 2022 10:01:25.468 [25504:7660:0211/100125.468:ERROR:device_event_log_impl.cc(214)] [10:01:25.466] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 11, 2022 10:01:25.479 [25504:7660:0211/100125.478:ERROR:device_event_log_impl.cc(214)] [10:01:25.478] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2022 10:11:27.788 [25504:7660:0211/101127.787:ERROR:device_event_log_impl.cc(214)] [10:11:27.786] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 11, 2022 10:11:27.803 [25504:7660:0211/101127.802:ERROR:device_event_log_impl.cc(214)] [10:11:27.801] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2022 11:06:27.335 [25504:17144:0211/110627.334:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 11, 2022 11:17:31.273 [25504:7660:0211/111731.272:ERROR:device_event_log_impl.cc(214)] [11:17:31.148] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 11, 2022 11:18:33.56 [25504:17144:0211/111833.055:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 11, 2022 11:24:27.647 [25504:17144:0211/112427.646:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+Feb 14, 2022 14:54:28.285 NEW SESSION
+Feb 14, 2022 14:54:28.285 [20348:25372:0214/145428.241:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 14, 2022 14:54:28.288 [20348:25372:0214/145428.241:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 14, 2022 14:54:28.289 [20348:25372:0214/145428.241:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 14, 2022 14:54:28.291 [20348:25372:0214/145428.247:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 14, 2022 14:54:28.291 [20348:4896:0214/145428.280:ERROR:device_event_log_impl.cc(214)] [14:54:28.279] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 14, 2022 14:54:28.294 [20348:4896:0214/145428.281:ERROR:device_event_log_impl.cc(214)] [14:54:28.280] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 14, 2022 15:13:12.863 [20348:4896:0214/151312.862:ERROR:device_event_log_impl.cc(214)] [15:13:12.861] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 14, 2022 16:43:26.994 [20348:20300:0214/164326.993:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 14, 2022 16:44:02.987 [20348:4896:0214/164402.987:ERROR:device_event_log_impl.cc(214)] [16:44:02.986] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 14, 2022 17:58:01.952 [20348:20300:0214/175801.950:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 14, 2022 17:59:05.53 [20348:4896:0214/175905.052:ERROR:fallback_task_provider.cc(123)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+
+Feb 15, 2022 09:18:29.661 NEW SESSION
+Feb 15, 2022 09:18:29.661 [12036:18616:0215/091829.658:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 15, 2022 09:18:29.662 [12036:18616:0215/091829.658:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 15, 2022 09:18:29.663 [12036:18616:0215/091829.658:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 15, 2022 09:18:29.663 [12036:18616:0215/091829.661:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 15, 2022 09:18:29.682 [12036:18064:0215/091829.681:ERROR:device_event_log_impl.cc(214)] [09:18:29.681] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 15, 2022 09:36:30.930 [12036:18064:0215/093630.929:ERROR:device_event_log_impl.cc(214)] [09:36:30.925] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 15, 2022 12:21:14.518 [12036:18064:0215/122114.516:ERROR:device_event_log_impl.cc(214)] [12:21:14.515] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 15, 2022 12:21:14.531 [12036:18064:0215/122114.531:ERROR:device_event_log_impl.cc(214)] [12:21:14.529] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 15, 2022 12:32:07.949 [12036:18064:0215/123207.948:ERROR:device_event_log_impl.cc(214)] [12:32:07.944] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 15, 2022 12:32:10.167 [12036:16780:0215/123210.166:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 15, 2022 12:32:35.586 [12036:16780:0215/123235.586:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 15, 2022 12:33:33.667 [12036:16780:0215/123333.666:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 15, 2022 12:37:55.752 [12036:18064:0215/123755.751:ERROR:interface_endpoint_client.cc(658)] Message 1 rejected by interface blink.mojom.WidgetHost
+Feb 15, 2022 12:44:01.111 [12036:16780:0215/124401.111:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 15, 2022 12:44:34.309 [12036:16780:0215/124434.309:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 15, 2022 13:00:02.802 [12036:16780:0215/130002.801:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 15, 2022 13:00:04.410 [12036:18064:0215/130004.409:ERROR:device_event_log_impl.cc(214)] [13:00:04.408] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 15, 2022 13:00:05.510 [12036:16780:0215/130005.510:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 15, 2022 13:02:46.434 [12036:16780:0215/130246.434:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 15, 2022 14:43:44.451 [20532:4756:0215/144344.451:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 15, 2022 14:43:44.452 [20532:4756:0215/144344.451:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 15, 2022 14:43:44.453 [20532:4756:0215/144344.451:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 15, 2022 14:43:44.454 [20532:4756:0215/144344.453:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 15, 2022 14:43:44.472 [20532:14992:0215/144344.472:ERROR:device_event_log_impl.cc(214)] [14:43:44.473] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 15, 2022 17:13:49.187 [20532:14992:0215/171349.184:ERROR:device_event_log_impl.cc(214)] [17:13:49.183] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 15, 2022 18:28:10.164 [20532:10072:0215/182810.163:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106

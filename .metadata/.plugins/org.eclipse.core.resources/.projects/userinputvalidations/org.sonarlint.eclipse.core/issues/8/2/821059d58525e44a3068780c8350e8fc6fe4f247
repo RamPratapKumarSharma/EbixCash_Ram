@@ -1,0 +1,8 @@
+
+{
+java:S20952"HUse try-with-resources or close this "Connection" in a "finally" clause.(§±ªÍÿÿÿÿÿ8¡“Íëï/HRBLOCKERZBUG
+}
+java:S20955"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ø¯èÔ8¡“Íëï/HŸRBLOCKERZBUG
+e
+java:S4925."-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8æôìï/HRMAJORZ
+CODE_SMELL

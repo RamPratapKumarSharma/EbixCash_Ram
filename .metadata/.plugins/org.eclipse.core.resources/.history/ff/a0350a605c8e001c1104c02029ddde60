@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<form action="/user_input_validation/User" method="post" class="id">
+		<h3>Enter Here</h3>
+		<label>Enter The Values</label> <input type="text"
+			placeholder="Enter The Values" id="username" name="data"></input>
+		<button>Submit</button>
+	</form>
+</body>
+</html>

@@ -1,0 +1,5 @@
+package com.user.input.validation.dao;
+
+public class UserDatabase {
+
+}
